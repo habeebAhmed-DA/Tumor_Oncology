@@ -36,3 +36,14 @@ I wanted to work on a healthcare-focused dataset that would allow me to practice
 7️⃣ Designed an interactive survival dashboard with slicers. <br>
 
 📷 Dashboard Preview
+1. Executive Summary. <br>
+(https://github.com/habeebAhmed-DA/Tumor_Oncology/blob/main/My_First_Project/Cancer_Dashboard/CC1.png)
+
+2. Tumor Insights. <br>
+(https://github.com/habeebAhmed-DA/Tumor_Oncology/blob/main/My_First_Project/Cancer_Dashboard/CC2.png)
+
+3. Treatment Effectiveness. <br>
+(https://github.com/habeebAhmed-DA/Tumor_Oncology/blob/main/My_First_Project/Cancer_Dashboard/CC3.png)
+
+4. Survival Analysis. <br>
+(https://github.com/habeebAhmed-DA/Tumor_Oncology/blob/main/My_First_Project/Cancer_Dashboard/CC4.png)
