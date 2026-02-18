@@ -54,7 +54,9 @@ The final dashboard allows users to filter data by age, gender, tumor type, and 
 - Designed visuals to analyze survival trends by tumor type, age, and treatment
 
 <br>
-📷 Dashboard Preview
+
+
+## 📷 Dashboard Preview
 
 ### 1️⃣ Executive Summary
 ![Executive Summary](https://github.com/habeebAhmed-DA/Tumor_Oncology/raw/main/My_First_Project/Cancer_Dashboard/CC1.png)
