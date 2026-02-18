@@ -25,6 +25,8 @@ The dataset includes the following key attributes:<br>
 7. **Treatment** – Type of treatment administered  (e.g., chemotherapy, surgery, radiation) 🔑 <br>
 8. **Response_to_Treatment** – Indicates whether the patient responded positively, negatively, or showed no change 🔑 <br>
 9. **Survival_Stats** – Survival outcome or duration after treatment 🔑 <br>
+
+***DataSet LINK :*** (https://www.kaggle.com/datasets/gauravsrivastav2507/ehr-dataset)
 <br>
 
 
